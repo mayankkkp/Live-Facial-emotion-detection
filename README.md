@@ -1,35 +1,34 @@
-# Live Facial Emotion Detection
+# Real-time face detection
 
 
 ## Overview
 
-This project aims to perform real-time facial emotion detection using machine learning techniques. It employs computer vision and deep learning to analyze facial expressions in live video streams or static images, providing insights into the emotional state of the subject.
+This project is a technology machine that learns to perform real-time facial expression detection Don't. It uses computer vision and deep learning to analyze faces in live video streams or still images to gain insight into emotions.
 
 ## Features
 
-- Real-time facial emotion detection from webcam feed.
-- Supports multiple emotions classification, including but not limited to:
-  - Happy
-  - Sad
-  - Angry
-  - Neutral
-  - Surprise
+- Real face recognition from webcam.
+- Supports a variety of emotions including but not limited to:
+- Happy
+- Sad
+- Angry
+- Neutral
+- Surprise
 - User-friendly graphical interface.
-- Detailed documentation and setup instructions.
+- Detailed information and installation instructions.
 
 ## Getting Started
 
-Follow these instructions to set up and run the project on your local machine.
+Follow these instructions to set up and run a project on your local computer.
 
 ### Prerequisites
 
 - Python 3.10.7
-- Dependencies (listed in `needs.txt`)
+- Dependencies (listed in `needss.txt`)
 
-### Installation
-
+### Installation < >
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/live-facial-emotion-detection.git
-   cd live-facial-emotion-detection
+```bash
+git clone https://github.com/your-username/live-facial-emotion-detection.git
+cd live-facial -emotion - search
