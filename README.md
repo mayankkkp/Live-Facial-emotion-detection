@@ -1,4 +1,4 @@
-# Real-time face detection
+# Live Facial emotion detection
 
 
 ## Overview
